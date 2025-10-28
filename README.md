@@ -1,4 +1,4 @@
-# 🗳️ Aplikasi Voting — Sistem Voting Modern untuk Sekolah/Organisasi
+# 🗳️ Voting App — Sistem Voting Modern untuk Sekolah/Organisasi
 
 ![alt text](https://github.com/Narzetts/Modern-Voting-App/blob/main/preview/Halaman%20Utama%20Voter.png?raw=true)
 
@@ -160,4 +160,5 @@ Dirancang khusus untuk keperluan **pemilihan ketua OSIS**, **ketua kelas**, atau
 ## 📄 Lisensi
 
 Proyek ini bersifat **open-source** — bebas digunakan dan dimodifikasi untuk keperluan pendidikan atau organisasi non-komersial.
+
 
